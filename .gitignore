@@ -2,6 +2,16 @@
 aclImdb/
 sentiment labelled sentences/
 
+#Model Checkpoints
+BestModelManualCopy/
+Bryan_CrossVal_Checkpoints/
+Bryan_model_checkpoints/
+Bryan_model_checkpoints/
+Bryan_model_checkpoints_finetuning_sbs/
+denoised_text_cased_checkpoints/
+denoised_text_checkpoints/
+wandb/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
